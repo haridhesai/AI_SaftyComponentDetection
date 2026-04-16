@@ -1,0 +1,106 @@
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\AI_COMPNENT_SAFTY.exe.config
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\AI_COMPNENT_SAFTY.exe
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\AI_COMPNENT_SAFTY.pdb
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\MailKit.dll
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\MimeKit.dll
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\Newtonsoft.Json.dll
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\OpenCvSharp.dll
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\System.Buffers.dll
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\System.Drawing.Common.dll
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\System.Formats.Asn1.dll
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\System.Memory.dll
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\System.ValueTuple.dll
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\MailKit.pdb
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\MailKit.xml
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\MailKit.dll.config
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\MimeKit.pdb
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\MimeKit.xml
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\Newtonsoft.Json.xml
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\OpenCvSharp.xml
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\System.Buffers.xml
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\System.Drawing.Common.pdb
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\System.Drawing.Common.xml
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\System.Formats.Asn1.xml
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\System.Memory.xml
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\bin\Debug\System.ValueTuple.xml
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\obj\Debug\MainWindow.g.cs
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\obj\Debug\App.g.cs
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\obj\Debug\AI_COMPNENT_SAFTY_Content.g.cs
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\obj\Debug\AI_COMPNENT_SAFTY_MarkupCompile.cache
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\obj\Debug\AI_COMPNENT_SAFTY_MarkupCompile.lref
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\obj\Debug\MainWindow.baml
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\obj\Debug\AI_COMPNENT_SAFTY.g.resources
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\obj\Debug\AI_COMPNENT_SAFTY.Properties.Resources.resources
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\obj\Debug\AI_COMPNENT_SAFTY.csproj.GenerateResource.cache
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\obj\Debug\AI_COMPNENT_SAFTY.csproj.CoreCompileInputs.cache
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\obj\Debug\AI_COMPNENT_SAFTY.csproj.CopyComplete
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\obj\Debug\AI_COMPNENT_SAFTY.exe
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\obj\Debug\AI_COMPNENT_SAFTY.pdb
+C:\Users\THARIDHESAINTL-Softw\source\repos\AI_COMPNENT_SAFTY\obj\Debug\AI_COMPNENT_SAFTY.csproj.AssemblyReference.cache
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\AI_COMPNENT_SAFTY.exe.config
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\AI_COMPNENT_SAFTY.exe
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\AI_COMPNENT_SAFTY.pdb
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\BouncyCastle.Cryptography.dll
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\MailKit.dll
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\MimeKit.dll
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\Newtonsoft.Json.dll
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\OpenCvSharp.dll
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\OpenCvSharp.Extensions.dll
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\System.Buffers.dll
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\System.Drawing.Common.dll
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\System.Formats.Asn1.dll
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\System.Memory.dll
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\System.Numerics.Vectors.dll
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\System.ValueTuple.dll
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\BouncyCastle.Cryptography.xml
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\MailKit.pdb
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\MailKit.xml
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\MailKit.dll.config
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\MimeKit.pdb
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\MimeKit.xml
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\Newtonsoft.Json.xml
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\OpenCvSharp.xml
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\OpenCvSharp.Extensions.xml
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\System.Buffers.xml
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\System.Drawing.Common.pdb
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\System.Drawing.Common.xml
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\System.Formats.Asn1.xml
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\System.Memory.xml
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\System.Numerics.Vectors.xml
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\bin\Debug\System.ValueTuple.xml
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\obj\Debug\AI_COMPNENT_SAFTY.csproj.AssemblyReference.cache
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\obj\Debug\MainWindow.g.cs
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\obj\Debug\App.g.cs
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\obj\Debug\AI_COMPNENT_SAFTY_Content.g.cs
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\obj\Debug\AI_COMPNENT_SAFTY_MarkupCompile.cache
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\obj\Debug\AI_COMPNENT_SAFTY_MarkupCompile.lref
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\obj\Debug\MainWindow.baml
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\obj\Debug\AI_COMPNENT_SAFTY.g.resources
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\obj\Debug\AI_COMPNENT_SAFTY.Properties.Resources.resources
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\obj\Debug\AI_COMPNENT_SAFTY.csproj.GenerateResource.cache
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\obj\Debug\AI_COMPNENT_SAFTY.csproj.CoreCompileInputs.cache
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\obj\Debug\AI_COMPNENT_SAFTY.csproj.CopyComplete
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\obj\Debug\AI_COMPNENT_SAFTY.exe
+D:\DATA BACKUP\AI_COMPNENT_SAFTY\obj\Debug\AI_COMPNENT_SAFTY.pdb
