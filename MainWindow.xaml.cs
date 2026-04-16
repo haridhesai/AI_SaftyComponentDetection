@@ -19,6 +19,7 @@ using System.Collections.ObjectModel;
 using MailKit.Net.Smtp;
 using MailKit.Security;
 using MimeKit;
+using System;
 
 using System.Management;
 
