@@ -55,7 +55,7 @@
             <Border Grid.Row="0" Background="#2a2f38" CornerRadius="10" Padding="12" Margin="0,0,0,15" BorderBrush="#00d4ff" BorderThickness="0,0,0,3">
                 <StackPanel>
                     <TextBlock Text="CAMERA CONTROL 📷" Foreground="#FFA4AAAB" FontSize="11" FontWeight="Bold"/>
-                    <ComboBox Name="CameraList" Margin="0,8,0,8" Height="28" Background="#1e1f26" Foreground="Black"/>
+                    <ComboBox Name="CameraList" Margin="0,8" Height="28" Background="#1e1f26" Foreground="Black"/>
                     <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
                         <Button Content="Start" Width="70" Margin="5" Click="StartCamera_Click" Background="#FF2F5D13" Foreground="#FFF9F3F3"/>
                         <Button Content="Stop" Width="70" Margin="5" Click="StopCamera_Click" Background="#FF942B2B" BorderBrush="#FF656262" Foreground="White"/>
