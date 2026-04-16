@@ -1,0 +1,117 @@
+﻿<Window x:Class="AI_COMPNENT_SAFTY.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AI_COMPNENT_SAFTY"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="762.8" Width="1035.2" Background="White" OpacityMask="#FFBF3636">
+    <Grid Margin="10">
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Color="#050a0a" Offset="0"/>
+                <GradientStop Color="#FF364657" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*" />
+            <ColumnDefinition Width="630*"/>
+            <ColumnDefinition Width="35*" />
+            <ColumnDefinition Width="344*"/>
+        </Grid.ColumnDefinitions>
+
+        <Border Grid.Row="0" Grid.ColumnSpan="4" CornerRadius="10" Padding="10" Margin="10,0,9.8,14.8" BorderBrush="Black" BorderThickness="1">
+            <Border.Background>
+                <ImageBrush ImageSource="Captur1e.PNG"/>
+            </Border.Background>
+            <Border.OpacityMask>
+                <ImageBrush ImageSource="images.jpeg"/>
+            </Border.OpacityMask>
+            <TextBlock Text="AI - COMPONENT SAFETY DETECTION" Foreground="White" FontWeight="Bold" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Times New Roman"/>
+        </Border>
+
+        <Border Grid.Row="1" Grid.Column="0" Margin="10,10.2,10.6,9.6" Background="Black" CornerRadius="15" BorderBrush="White" BorderThickness="1.5" Grid.ColumnSpan="2">
+            <Grid>
+                <Image Name="CameraImage" Stretch="Uniform" Margin="5"/>
+                <TextBlock Name="CameraNameText" Text="CAMERA // LIVE FEED" Foreground="#FF000805" Margin="20,106,9.2,0" FontSize="12" FontWeight="Bold" VerticalAlignment="Top"/>
+            </Grid>
+        </Border>
+
+        <Grid Grid.Row="1" Grid.Column="2" Margin="9.4,10.2,9.8,9.6" Grid.ColumnSpan="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Border Grid.Row="0" Background="#2a2f38" CornerRadius="10" Padding="12" Margin="0,0,0,15" BorderBrush="#00d4ff" BorderThickness="0,0,0,3">
+                <StackPanel>
+                    <TextBlock Text="CAMERA CONTROL 📷" Foreground="#FFA4AAAB" FontSize="11" FontWeight="Bold"/>
+                    <ComboBox Name="CameraList" Margin="0,8,0,8" Height="28" Background="#1e1f26" Foreground="Black"/>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <Button Content="Start" Width="70" Margin="5" Click="StartCamera_Click" Background="#FF2F5D13" Foreground="#FFF9F3F3"/>
+                        <Button Content="Stop" Width="70" Margin="5" Click="StopCamera_Click" Background="#FF942B2B" BorderBrush="#FF656262" Foreground="White"/>
+                    </StackPanel>
+                </StackPanel>
+            </Border>
+
+            <Border Grid.Row="1" Background="#FF2A2F38" CornerRadius="10" Padding="15" Margin="0,0,0,15" BorderBrush="#00d4ff" BorderThickness="0,0,0,3">
+                <StackPanel>
+                    <TextBlock Text="DETECTION STATUS" Foreground="#FFA8ABAB" FontSize="12" FontWeight="Bold"/>
+                    <TextBlock Name="StatusText" Text="NO PERSON" Foreground="White" FontSize="20" FontWeight="ExtraBold" Margin="0,10,0,0" HorizontalAlignment="Center"/>
+                </StackPanel>
+            </Border>
+
+            <Grid Grid.Row="2" Margin="0,0,0,15">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Border Grid.Column="0" Background="#FF2A2F38" CornerRadius="12" Padding="15" Margin="0,0,7,0" BorderBrush="#00ffa2" BorderThickness="0,0,0,3">
+                    <StackPanel>
+                        <TextBlock Foreground="#FFA6B0AB" FontSize="12" FontWeight="Bold"><Run Text="MAIL ALERTS  "/><Run Foreground="#FFB4AEAF" Text="⚠"/></TextBlock>
+                        <TextBlock Name="MailText" Text="0" Foreground="White" FontSize="30" FontWeight="Bold" Margin="0,5,0,0" HorizontalAlignment="Center"/>
+                    </StackPanel>
+                </Border>
+                <Border Grid.Column="1" Background="#FF2A2F38" CornerRadius="12" Padding="15" Margin="7,0,0,0" BorderBrush="#ff3b5c" BorderThickness="0,0,0,3">
+                    <StackPanel>
+                        <TextBlock Text="VIOLATION (s) ⓘ" Foreground="#FFB4AEAF" FontSize="12" FontWeight="Bold"/>
+                        <TextBlock Name="TimeText" Text="0.0" Foreground="White" FontSize="30" FontWeight="Bold" Margin="0,5,0,0" HorizontalAlignment="Center"/>
+                    </StackPanel>
+                </Border>
+            </Grid>
+
+            <Border Grid.Row="3" Background="#2a2f38" CornerRadius="12" Padding="12" Margin="0,0,0,15" BorderBrush="#ffaa00" BorderThickness="0,0,0,3">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                    <TextBlock Text="CONFIG : " Foreground="White" FontSize="12" FontWeight="Bold"/>
+                    <TextBlock Name="ConfigText" Text="YOLOv8 | CONF:0.3 | ROI:ON" Foreground="White" FontSize="13" FontWeight="Bold" Margin="5,0,0,0"/>
+                </StackPanel>
+            </Border>
+
+            <Border Grid.Row="4" Background="#FF2A2F38" CornerRadius="15" Padding="10" BorderBrush="#FF99A3C0" BorderThickness="1">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <TextBlock Text="SYSTEM LOGS // MAIL HISTORY" Foreground="#88E2E2E2" FontWeight="Bold" Margin="5,0,0,10" FontSize="12"/>
+                    <DataGrid Name="MailHistoryGrid" Grid.Row="1" AutoGenerateColumns="False" Background="#FF2A2F38" Foreground="#FF0C0C0C" BorderThickness="0" HeadersVisibility="Column" GridLinesVisibility="Horizontal" Margin="-9,0.4,-8.2,0.2">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Time" Binding="{Binding Time}" Width="1*"/>
+                            <DataGridTextColumn Header="Status" Binding="{Binding Status}" Width="1*"/>
+                            <DataGridTextColumn Header="Message" Binding="{Binding Message}" Width="2*"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </Border>
+        </Grid>
+    </Grid>
+</Window>
