@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AI_COMPNENT_SAFTY"
         mc:Ignorable="d"
-        Title="MainWindow" Height="762.8" Width="1035.2" Background="White" OpacityMask="#FFBF3636">
+        Title="MainWindow" Height="762.8" Width="1116.8" Background="White" OpacityMask="#FFBF3636">
     <Grid Margin="10">
         <Grid.Background>
             <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">

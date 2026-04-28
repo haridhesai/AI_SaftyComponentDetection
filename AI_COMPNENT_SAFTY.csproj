@@ -160,9 +160,6 @@
     <Resource Include="images %281%29.jpeg" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Capture.PNG" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="Captur1e.PNG" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
